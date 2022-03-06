@@ -178,11 +178,11 @@ code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension PulkitGangwar.nextjs-snippets
 code --install-extension Shan.code-settings-sync
 code --install-extension wayou.vscode-todo-highlight
-code --install-extension
+
 ```
 
 Here is a list of the extensions you are installing:
-- [Sublime Text Keymap and Settings Importer](https://marketplace.visualstudio.com/items?formulahendry.auto-rename-tag)
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?formulahendry.auto-rename-tag)
 - [City Lights Icon Package](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Git Extention Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack)
